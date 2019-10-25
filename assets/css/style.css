@@ -1,0 +1,72 @@
+#CheckIn{
+  background: #1A4766;
+  width: 100%;
+  height:auto;
+  padding: 7%;
+  justify-content: center;
+  font-size: 2rem;
+}
+#Student1{
+  width: 100%;
+  height:15vh;
+  background:green;
+  margin-bottom:1%;
+  margin-top:1%;
+}
+#Student2{
+  width: 100%;
+  height:15vh;
+  background:green;
+  margin-bottom:1%;
+  margin-top:1%;
+}
+#Student3{
+  width: 100%;
+  height:15vh;
+  background:red;
+  margin-bottom:1%;
+}
+#Student4{
+  width: 100%;
+  height:15vh;
+  background:green;
+  margin-bottom:1%;
+}
+#Student5{
+  width: 100%;
+  height:15vh;
+  background:red;
+  margin-bottom:1%;
+}
+#navBottom{
+  position: sticky;
+  bottom:0;
+  background: #1A4766;
+  justify-content: center;
+}
+#home{
+  width: 5vh;
+  height: 5vh;
+  margin: 8%;
+}
+#stats{
+  width: 5vh;
+  height:5vh;
+  margin: 8%;
+}
+#new{
+  width: 5vh;
+  height: 5vh;
+  margin: 8%;
+}
+.studentProfile{
+width: 15vh;
+height: 15vh;
+}
+label{
+  color:white;
+  font-size: 2rem;
+  text-align: center;
+  padding:1%;
+  width:80%;
+}
